@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.vite/
+.pio/
+.vscode/
+firmware/include/mqtt_config.h
